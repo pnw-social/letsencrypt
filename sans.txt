@@ -1,6 +1,5 @@
 www
 chat
-mail
 git
 ci
 mc
