@@ -4,4 +4,4 @@ do
   SANS="$SANS -d $i.pnw.social";
 done
 
-echo certbot certonly --standalone $SANS -d pnw.social
+certbot certonly --standalone $SANS -d pnw.social
