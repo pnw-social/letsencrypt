@@ -1,0 +1,16 @@
+www
+chat
+mail
+git
+ci
+mc
+kanban
+docs
+help
+about
+blog
+wiki
+dashboard
+analytics
+shop
+messenger
